@@ -1,0 +1,6 @@
+/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/cumlord/Downloads/Networks Master/CSE160-Project-Skeleton-Code-master"
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: CSE160_Project_Skeleton_Code_master
+CMake Error: Cannot determine link language for target "CSE160_Project_Skeleton_Code_master".
+-- Generating done
+-- Build files have been written to: /home/cumlord/Downloads/Networks Master/CSE160-Project-Skeleton-Code-master/cmake-build-debug
